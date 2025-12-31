@@ -1,4 +1,4 @@
-# Pyhton Basics
+# Python Basics
 
 This repository contains my first steps learning Python.
 
